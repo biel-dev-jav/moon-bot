@@ -1,0 +1,15 @@
+{
+  "name": "moon-bot",
+  "version": "2.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "biel-dev",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "openai": "^3.1.0"
+  }
+}

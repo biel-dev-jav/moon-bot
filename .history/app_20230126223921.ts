@@ -1,0 +1,9 @@
+import { ConnectConfig, connect } from "./src/connection";
+
+const config: ConnectConfig = {
+}
+
+const bot: Bot
+
+
+connect(config);
